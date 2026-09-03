@@ -14,6 +14,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Show repository files
+      run: |
+        echo "Checking repository structure..."
+        ls -R
+
     - name: Check required folders and files
       run: |
         test -d docs
