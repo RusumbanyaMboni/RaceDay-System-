@@ -38,3 +38,9 @@ The project documentation can be found in the `/docs` folder:
 - ERD Diagram
 - API Endpoint Plan
 - SQL Database Script
+
+## CI/CD Build
+
+The project includes a GitHub Actions workflow that validates the required repository structure and checks that all documentation files are available.
+
+![Successful GitHub Actions Build](docs/github-build.png)
