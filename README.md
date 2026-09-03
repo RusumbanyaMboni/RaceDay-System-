@@ -69,3 +69,17 @@ The API provides functionality for:
 - Category management
 - Event enrolments
 - Result management
+
+## Repository Structure
+RaceDay-System
+│
+├── docs
+│ ├── ERD diagram
+│ ├── API planning document
+│ └── SQL database script
+│
+├── .github
+│ └── workflows
+│ └── validate.yml
+│
+└── README.md
