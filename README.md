@@ -3,15 +3,12 @@
 ## System Description
 
 RaceDay is a race event management system that allows organisers to create and manage race events, categories, participant enrolments, and race results.
-
 The system supports role-based access where Organisers manage race activities and Participants can register for events, select categories, and view their results.
 
 ## User Roles
-
 ### Organiser
 
 The Organiser is responsible for managing race events.
-
 Responsibilities:
 - Create new events
 - Update existing events
@@ -32,7 +29,6 @@ Responsibilities:
 - View their own race results
 
 ## Documentation
-
 The project documentation can be found in the `/docs` folder:
 
 - ERD Diagram
@@ -48,7 +44,6 @@ The project includes a GitHub Actions workflow that validates the required repos
 ## Database Overview
 
 The RaceDay system database stores information about organisers, participants, events, categories, enrolments, and race results.
-
 The main entities include:
 
 - Organiser
