@@ -44,3 +44,16 @@ The project documentation can be found in the `/docs` folder:
 The project includes a GitHub Actions workflow that validates the required repository structure and checks that all documentation files are available.
 
 ![Successful GitHub Actions Build](docs/github-build.png)
+
+## Database Overview
+
+The RaceDay system database stores information about organisers, participants, events, categories, enrolments, and race results.
+
+The main entities include:
+
+- Organiser
+- Participant
+- Event
+- Category
+- Enrolment
+- Result
