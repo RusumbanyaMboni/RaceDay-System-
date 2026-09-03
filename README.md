@@ -95,3 +95,9 @@ The project requires:
 ## Testing
 
 The SQL script was tested on a clean database instance to confirm that tables, relationships, constraints, and sample data are created successfully.
+
+## Documentation Links
+
+- [ERD Diagram](docs/RaceDay_ERD.png)
+- [API Endpoint Plan](docs/Section_A_B_Planning_Document.pdf)
+- [SQL Script](docs/RaceDayDatabase.sql)
