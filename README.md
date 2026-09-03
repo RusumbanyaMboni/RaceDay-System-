@@ -83,3 +83,11 @@ RaceDay-System
 │ └── validate.yml
 │
 └── README.md
+
+## Setup Requirements
+
+The project requires:
+
+- SQL Server Management Studio
+- GitHub repository access
+- Database script execution environment
