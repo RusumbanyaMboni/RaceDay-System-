@@ -91,3 +91,7 @@ The project requires:
 - SQL Server Management Studio
 - GitHub repository access
 - Database script execution environment
+
+## Testing
+
+The SQL script was tested on a clean database instance to confirm that tables, relationships, constraints, and sample data are created successfully.
