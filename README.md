@@ -96,3 +96,10 @@ The SQL script was tested on a clean database instance to confirm that tables, r
 - [ERD Diagram](docs/RaceDay_ERD.png)
 - [API Endpoint Plan](docs/Section_A_B_Planning_Document.pdf)
 - [SQL Script](docs/RaceDayDatabase.sql)
+
+
+## Project Walkthrough Video
+
+YouTube link:
+
+https://www.youtube.com/watch?v=R2L_sagrJfs
