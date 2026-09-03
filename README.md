@@ -57,3 +57,15 @@ The main entities include:
 - Category
 - Enrolment
 - Result
+
+
+## API Overview
+
+The API provides functionality for:
+
+- User authentication
+- Profile management
+- Event management
+- Category management
+- Event enrolments
+- Result management
